@@ -14,7 +14,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Based in Noida, UP, India.
 - 📂 Explore all my projects [here](https://github.com/devanjali2117?tab=repositories) 
-- 📧 You can reach me at [devanjali2117](mailto:devanjali2117@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anjali-singh-608462189/) 
+- 📧 You can reach me at [devanjali2117@gmail.com](mailto:devanjali2117@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anjali-singh-608462189/) 
 - 📧 Contact me at [Contact Me](https://forms.gle/8FLNsQe3SuPFW4Lc9)
 <br />
 <hr>
